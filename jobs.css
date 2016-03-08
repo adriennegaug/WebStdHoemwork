@@ -1,0 +1,231 @@
+/* CSS Document */
+
+
+/* Layout */
+
+.page {
+    background-color:#CCCCCC;
+    width:960px;
+    margin: 0 auto;
+    overflow:auto;
+}
+
+body {
+    background-color:white;
+    font-family: 'Quicksand' serif;
+}
+
+header {
+    width:940px;
+    margin:10px;
+}
+
+nav {
+    background-color:#808080;
+    width:940px;
+    margin:10px;
+}
+
+nav ul {
+    text-decoration:none;
+    line-height:25px;
+    text-align:center;
+}
+
+footer{
+    background-color:#808080;
+    width:940px;
+    margin:10px;
+    margin-top:20px;
+    clear:both;
+    float:left;
+}
+
+/* Links */
+
+li {
+    display:inline;
+    font-size:18px;
+    padding:20px;
+    text-transform:none;
+}
+
+a {
+    text-decoration:none;
+    margin:0;
+    padding:0;
+}
+
+a:link {color:white} 
+a:visited {color:#00A99D}
+a:hover {color:black}
+
+
+/* Typography */
+
+h2 {
+    text-align: center;
+  }
+
+/* Home Page Layout */
+
+.homeleft {
+    background-color:white;
+    width:440px;
+    margin:10px;
+    padding:5px;
+    float:left;
+}
+
+.homeright {
+    background-color:white;
+    width:440px;
+    height:445px;
+    margin:10px;
+    margin-bottom:20px;
+    padding:5px;
+    float:right;
+}
+
+.clear {
+    clear:both
+}
+
+.homeleft2 {
+    background-color:white;
+    width:290px;
+    margin-left:10px;
+    margin-right:10px;
+    padding:5px;
+    float:left;
+}
+
+.homemiddle{
+    background-color:white;
+    width:290px;
+    margin-left:10px;
+    margin-right:10px;
+    padding:5px;
+    float:left;
+}
+
+.homeright2{
+    background-color:white;
+    width:290px;
+    margin-left:10px;
+    margin-right:10px;
+    padding:5px;
+    float:left;
+}
+
+
+/* Early Years Layout */
+
+.earlyleft {
+    background-color:white;
+    width:280px;
+    margin:10px;
+    padding:5px;
+    float:left;
+}
+
+.earlymiddle {
+    background-color:white;
+    width:280px;
+    margin:10px;
+    padding:5px;
+    float:left;
+}
+
+.earlyright {
+    background-color:white;
+    width:280px;
+    margin:10px;
+    padding:5px;
+    float:left;
+}
+
+/* NeXT Layout */
+
+.columnleftnext {
+    background-color:white;
+    width:280px;
+    margin:10px;
+    padding:5px;
+    float:left;
+}
+
+.columnmidnext {
+    background-color:white;
+    width:280px;
+    margin:10px;
+    padding:5px;
+    float:left;
+}
+
+.columnrightnext {
+    background-color:white;
+    width:280px;
+    margin:10px;
+    padding:5px;
+    float:left;
+}
+
+/* Pixar Layout */
+
+.pixarleft {
+    background-color:white;
+    width:215px;
+    float:left;
+    margin-left:20px;
+    margin-right: 10px;
+}
+
+.pixarleftmid {
+    background-color:white;
+    width:215px;
+    float:left;
+    margin-left:10px;
+    margin-right: 10px;
+}
+
+.pixarrightmid {
+    background-color:white;
+    width:215px;
+    float:left;
+    margin-left:10px;
+    margin-right:10px;
+}
+
+.pixarright {
+    background-color:white;
+    width:215px;
+    float:left;
+    margin-left:10px;
+    margin-right: 20px;
+}
+
+/* Final Days Layout */
+
+.finalleft {
+    background-color:white;
+    width:280px;
+    margin:10px;
+    float:left;
+}
+
+.finalmiddle {
+    background-color:white;
+    width:280px;
+    margin:10px;
+    padding:5px;
+    float:left;
+}
+
+.finalright {
+    background-color:white;
+    width:280px;
+    margin:10px;
+    padding:5px;
+    float:left;
+}
